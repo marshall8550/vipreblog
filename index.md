@@ -14,7 +14,7 @@ After purchasing VIPRE, whether online or in-store, you'll receive a **product k
 - If you bought it online, check your confirmation email for the license information.
 - If it was a physical purchase, the key may be printed on the packaging or included on a card inside the box.
 
-Ensure you keep this code safe, as you'll need it for installation and future reinstallations.
+[Ensure you keep this code safe, as you'll need it for installation and future reinstallations.](https://vipreblog.readthedocs.io/en/latest/)
 
 
 
